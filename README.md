@@ -1,0 +1,1 @@
+This is a personal portfolio website featuring multiple pages with smooth navigation and hover effects. The site includes 4 pages: Home, About, Skills, and Contact. The website uses buttons and links to transition between these pages, and all buttons and links have hover effects for an interactive experience.
